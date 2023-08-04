@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi! I am @tapo4eg3d (Denis Fomin) 👋
 
-<!--
-**TaPO4eg3D/tapo4eg3d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I do Python for a living but I quite enjoy low-level and GPU Programming, and I am particularly passionate
+about Rust and C programming languages.
 
-Here are some ideas to get you started:
+Languages I am most familiar with:
+  - Python
+  - TypeScript / JavaScript
+  - Rust
+  - Lua
+  - C
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My current setup:
+  - **OS:** Arch Linux
+  - **Editor:** NeoVim
+  - **Window Manager:** Hyprland
+
+All [dotfiles](https://github.com/TaPO4eg3D/my-dotfiles) are publicly available
+
+I’m currently working on [Aegis](https://github.com/TaPO4eg3D/aegis). A UI Framework in Rust
