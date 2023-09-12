@@ -1,7 +1,6 @@
 ### Hi! I am @tapo4eg3d (Denis Fomin) 👋
 
-I do Python for a living but I quite enjoy low-level and GPU Programming, and I am particularly passionate
-about Rust and C programming languages.
+I make a living doing Python, but I also quite enjoy low-level and GPU programming. I am particularly passionate about Rust and C programming languages
 
 Languages I am most familiar with:
   - Python
